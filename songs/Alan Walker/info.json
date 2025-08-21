@@ -1,4 +1,5 @@
 {
-    "title" : "Justin Bieber Songs",
-    "discription" : "Songs for you"
+  "title": "Alan Walker Songs",
+  "description": "Songs for you",
+  "tracks": ["Faded.mp3"]
 }
