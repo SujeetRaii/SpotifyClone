@@ -1,0 +1,74 @@
+[
+  {
+    "folder": "Alan Walker",
+    "title": "Alan Walker",
+    "description": "Best hits",
+    "cover": "songs/Alan Walker/cover.jpg"
+  },
+  {
+    "folder": "Angry-Mood",
+    "title": "Angry Mood",
+    "description": "High-energy songs for an intense vibe",
+    "cover": "songs/Angry-Mood/cover.jpg"
+  },
+  {
+    "folder": "Anime",
+    "title": "Anime",
+    "description": "Soundtracks and anime vibes",
+    "cover": "songs/Anime/cover.jpg"
+  },
+  {
+    "folder": "Arjit Singh",
+    "title": "Arijit Singh",
+    "description": "Romantic and soulful tracks",
+    "cover": "songs/Arjit Singh/cover.jpg"
+  },
+  {
+    "folder": "Bts",
+    "title": "BTS",
+    "description": "K-Pop hits from BTS",
+    "cover": "songs/Bts/cover.jpg"
+  },
+  {
+    "folder": "Chill-Mood",
+    "title": "Chill Mood",
+    "description": "Relaxing and calm songs",
+    "cover": "songs/Chill-Mood/cover.jpg"
+  },
+  {
+    "folder": "Dark-Mood",
+    "title": "Dark Mood",
+    "description": "Moody and atmospheric tracks",
+    "cover": "songs/Dark-Mood/cover.jpg"
+  },
+  {
+    "folder": "Diljit",
+    "title": "Diljit",
+    "description": "Punjabi beats by Diljit",
+    "cover": "songs/Diljit/cover.jpg"
+  },
+  {
+    "folder": "Doja Cat",
+    "title": "Doja Cat",
+    "description": "Popular tracks by Doja Cat",
+    "cover": "songs/Doja Cat/cover.jpg"
+  },
+  {
+    "folder": "K-Drama",
+    "title": "K-Drama",
+    "description": "Korean drama soundtracks",
+    "cover": "songs/K-Drama/cover.jpg"
+  },
+  {
+    "folder": "Kiss Of Life",
+    "title": "Kiss Of Life",
+    "description": "Hits from Kiss Of Life",
+    "cover": "songs/Kiss Of Life/cover.jpg"
+  },
+  {
+    "folder": "Nepali",
+    "title": "Nepali",
+    "description": "Nepali hits and melodies",
+    "cover": "songs/Nepali/cover.jpg"
+  }
+]
